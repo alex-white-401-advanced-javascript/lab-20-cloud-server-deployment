@@ -8,17 +8,17 @@
 ### Links and Resources
 Four repositories were required for this lab assignment. The submission pull request, Travis.CI build, and actual code repository for each are listed below.
 #### 1. Message Queue Server 
-   * [PR](https://github.com/alex-white-401-advanced-javascript/log-19-server/pull/1)
-   * [Azure]()
-   <!-- * [Travis]() -->
+   * [PR](https://github.com/alex-white-401-advanced-javascript/log-19-api-server/pull/2)
+   * [![Build Status](https://travis-ci.com/alex-white-401-advanced-javascript/log-19-server.svg?branch=master)](https://travis-ci.com/alex-white-401-advanced-javascript/log-19-server)
+   * [Azure](https://polar-sands-74657.herokuapp.com)
 #### 2. Message Queue Logger 
    * [PR](https://github.com/alex-white-401-advanced-javascript/lab-19-logger/pull/1)
-   * [AWS]()
-   <!-- * [Travis]() -->
+   * [![Build Status](https://travis-ci.com/alex-white-401-advanced-javascript/lab-19-logger.svg?branch=submission)](https://travis-ci.com/alex-white-401-advanced-javascript/lab-19-logger)
+   * [AWS](https://morning-river-32655.herokuapp.com)
 #### 4. API Server
-   * [PR](https://github.com/alex-white-401-advanced-javascript/log-19-api-server/pull/1)
-   * [Heroku]()
-   <!-- * [Travis]() -->
+   * [PR](https://github.com/alex-white-401-advanced-javascript/log-19-api-server/pull/2)
+   * [![Build Status](https://travis-ci.com/alex-white-401-advanced-javascript/log-19-api-server.svg?branch=resub)](https://travis-ci.com/alex-white-401-advanced-javascript/log-19-api-server)
+   * [Heroku](https://safe-lake-94306.herokuapp.com)
 
 
 ### Modules
